@@ -1,0 +1,30 @@
+Pages: Home Quest About
+
+Home
+
+You can call me chess
+
+Karibu! Akwaaba! The two words probably don't make sence, grammartically at least, when put side by side like this, but they do provide great insight into my journey thus far. Karibu is Swahili while Akwaaba is Twi, both meaning welcome, welcome to this page and to take a peek into my life, the life of Chess
+
+links to linkedIn IG Facebook - icons
+Short intro to page and quote
+
+Those who improve with age embrace the power of personal growth and personal achievement and begin to replace youth with wisdom, innocence with understanding, and lack of purpose with self-actualization. Bo Bennett
+
+Quest
+
+Reasons why MEST paraphrased
+Why Entrepreneurship?
+What I need to be a great entrepreneur
+What I want to achieve
+
+About
+Intro on myself - Who is Chess?
+What I am doing - MEST
+
+
+Display - flex, align - center
+
+position: absolute;
+top: 0px;
+bottom: 0px;
